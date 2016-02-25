@@ -1,0 +1,12 @@
+# Site settings
+title: Madrid.Opendataday.org
+email: okfn@okfn.es
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://madrid.opendataday.org" # the base hostname & protocol for your site
+
+twitter_username: okfn_spain
+github_username: okfn-spain
+
+# Build settings
+markdown: kramdown
