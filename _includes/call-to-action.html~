@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
-                <h2 class="section-heading">¡Participa en el Hackatón!</h2>
+                <h2 class="section-heading">¡Participa en el Opendataday!</h2>
                 <hr class="light">
                 <p class="text-faded">Sois bienvenidxs desarrolladorxs, programadores, diseñadores, periodistas, bibliotecarixs, estadísticxs, ciudadanxs...
 		  Participan proyectos de todo tipo que utilizan datos abiertos o los liberan para que todxs podamos usarlos.
@@ -10,13 +10,22 @@
 		  
                 <a href="http://s.coop/oddmad16" class="btn btn-default btn-xl">¡Únete!</a>
 		<hr class="light">
-		<div class="textwidget"><iframe width="925" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=-3.6968994140625%2C40.40819838637201%2C-3.6923933029174805%2C40.41087381974649&amp;layer=mapquest" style="border: 0px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/#map=18/40.40954/-3.69465&amp;layers=Q">Ver mapa más grande</a></small></div><!-- fin textwidget -->
+		<div class="textwidget"><iframe width="925" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://opendataday.org/map/" style="border: 0px solid black"></iframe><br/><small><a href="http://opendataday.org/map/">Ver mapa más grande</a></small></div><!-- fin textwidget -->
 		<hr class="light">
 				  	
-		  <div><p>Medialab-Prado, Plaza de las Letras. C/ Alameda, 15 · 28014 Madrid (España). <br />Metro y Cercanías: Atocha. Autobuses: Líneas 6, 10, 14, 19, 26, 27, 32, 34, 37 y 45. <br />
-		Desde el Aeropuerto de Barajas: Bus Exprés 24h</p></div>
-			<hr class="light">
-		<div class="textwidget"><img src="http://okfn.es/wp-content/uploads/2014/09/cropped-OK_LG_LOGO_SPAIN_CMYK_small.jpg" height="80" alt="Logo OKF España" style="padding-right: 20px;" /><img src="https://pbs.twimg.com/profile_images/701806373517074436/sM1qPWKf_400x400.png" alt="Logo Nodo ODI Madrid" height="80" style="padding-right: 20px;" />
+		<div>
+		  <ul>
+		    <li>Barcelona, apps4citizens organizará el Open Inspiration Data Day en la Fábrica Lehman (Barcelona), para promover el desarrollo de aplicaciones aprovechando el potencial de los datos abiertos. Será el 5 de marzo y contará con especialistas que buscarán estimular a los participantes.</li>
+		    <li>Bilbao, MORElab research group and Bilbao City Council will organize the local event at Auzo Factory Rekalde on March 4th. More info at <a href="http://opendataday.deusto.es">Open Data Day Bilbao</a>.
+		    <li>Girona, Municipal City Archive of Girona will publish the datasets of the inventories and catalogues of fonds that they keep.</li>
+		    <li>Granada, The Free Software Office in the University of Granada will organize its third Granada2016 Open Data and Projects Hackatón, place TBD, starting on March 4th and ending on Monday 7th in the morning. Please check the page for details. Several topics have been proposed: Analysis of election data in Spain and elsewhere. Gender in university degrees and students. Street naming analysis</li>
+		    <li>Madrid, ODI Madrid, Journocoders Madrid, Open Knowledge España and Medialab-Prado will organize and celebrate an <a href="http://madrid.opendataday.org">Open Data Hackathon</a> at Medialab-Prado on March 5th. </li>
+		    <li>Pamplona, <a href="https://www.eventbrite.co.uk/e/entradas-fiware-roadshow-open-data-for-european-entrepreneurs-20694233008">Fiware Roadmap</a></li>
+		    <li>Valencia, <a href="http://s.coop/opendatathon">OpenDatathon</a>
+		  </ul>
+		  
+		  <hr class="light">
+		  <div class="textwidget"><img src="http://okfn.es/wp-content/uploads/2014/09/cropped-OK_LG_LOGO_SPAIN_CMYK_small.jpg" height="80" alt="Logo OKF España" style="padding-right: 20px;" /><img src="https://pbs.twimg.com/profile_images/701806373517074436/sM1qPWKf_400x400.png" alt="Logo Nodo ODI Madrid" height="80" style="padding-right: 20px;" />
 		  <img src="http://medialab-prado.es/static/img/logo_mlp_web_rgb.png" alt="Logo Medialab-Prado" /><br />
 </div><!-- fin textwidget -->
 
