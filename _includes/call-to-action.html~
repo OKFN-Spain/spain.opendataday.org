@@ -1,0 +1,26 @@
+<section class="bg-primary" id="about">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                <h2 class="section-heading">¡Participa en el Hackatón!</h2>
+                <hr class="light">
+                <p class="text-faded">Sois bienvenidxs desarrolladorxs, programadores, diseñadores, periodistas, bibliotecarixs, estadísticxs, ciudadanxs...
+		  Participan proyectos de todo tipo que utilizan datos abiertos o los liberan para que todxs podamos usarlos.
+		  Únete a un proyecto o trae tu propuesta o tu propio equipo.</p>
+		  
+                <a href="http://s.coop/oddmad16" class="btn btn-default btn-xl">¡Únete!</a>
+		<hr class="light">
+		<div class="textwidget"><iframe width="925" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=-3.6968994140625%2C40.40819838637201%2C-3.6923933029174805%2C40.41087381974649&amp;layer=mapquest" style="border: 0px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/#map=18/40.40954/-3.69465&amp;layers=Q">Ver mapa más grande</a></small></div><!-- fin textwidget -->
+		<hr class="light">
+				  	
+		  <div><p>Medialab-Prado, Plaza de las Letras. C/ Alameda, 15 · 28014 Madrid (España). <br />Metro y Cercanías: Atocha. Autobuses: Líneas 6, 10, 14, 19, 26, 27, 32, 34, 37 y 45. <br />
+		Desde el Aeropuerto de Barajas: Bus Exprés 24h</p></div>
+			<hr class="light">
+		<div class="textwidget"><img src="http://okfn.es/wp-content/uploads/2014/09/cropped-OK_LG_LOGO_SPAIN_CMYK_small.jpg" height="80" alt="Logo OKF España" style="padding-right: 20px;" /><img src="https://pbs.twimg.com/profile_images/701806373517074436/sM1qPWKf_400x400.png" alt="Logo Nodo ODI Madrid" height="80" style="padding-right: 20px;" />
+		  <img src="http://medialab-prado.es/static/img/logo_mlp_web_rgb.png" alt="Logo Medialab-Prado" /><br />
+</div><!-- fin textwidget -->
+
+            </div><!-- fin col-lg-8 -->
+        </div><!-- fin row -->
+    </div>
+</section>
