@@ -136,15 +136,15 @@ header {
       text-transform: uppercase;
       margin-top: 0;
       margin-bottom: 0;
-      background-color: #000; }
+      /*		background-color: #000;*/ }
     header .header-content .header-content-inner hr {
       margin: 30px auto; }
     header .header-content .header-content-inner p {
-      font-weight: 300;
-      color: rgba(255, 255, 255, 0.7);
-      font-size: 16px;
+      font-weight: 500;
+      color: rgba(255, 0, 0, 0.9);
+      font-size: 24px;
       margin-bottom: 50px;
-      background-color: #000; }
+      background-color: rgba(196, 196, 196, 0.4); }
   @media (min-width: 768px) {
     header {
       min-height: 100%; }
